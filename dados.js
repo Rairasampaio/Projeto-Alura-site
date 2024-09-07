@@ -29,28 +29,28 @@ let dados = [
       link: "https://pt.wikipedia.org/wiki/Zombicide",
     
 },
-{     Título: "Everdell",
+{     titulo: "Everdell",
       descricao: "Em Everdell, os jogadores constroem uma cidade em uma floresta mágica. Ao longo das quatro estações, os jogadores coletam recursos, constroem edifícios e atraem animais para sua cidade.",
       link: "https://en.wikipedia.org/wiki/Everdell"
 },
 {
-      Título: "Clank!",
+      titulo: "Clank!",
       descricao: "Em Clank!, os jogadores exploram as profundezas de um vulcão em busca de tesouros. A cada turno, eles rolam dados para mover-se e realizar ações, mas cuidado para não fazer muito barulho e despertar o dragão!",
       link: "https://en.wikipedia.org/wiki/Clank"
 
 },
 {
-      Título: "Scythe",
+      titulo: "Scythe",
       descricao: "Scythe é um jogo de eurogame ambientado em um mundo pós-guerra. Os jogadores assumem o controle de facções em um continente em reconstrução, coletando recursos, desenvolvendo sua tecnologia e expandindo seu território. O jogo oferece um equilíbrio entre estratégia e engine building.",
       link:"https://en.wikipedia.org/wiki/Scythe"
 },
-{     Título: "Wingspan",
+{     titulo: "Wingspan",
       descricao: "Wingspan é um jogo temático sobre a observação de aves. Os jogadores coletam aves, constroem seus habitats e buscam completar objetivos científicos. O jogo combina mecânicas de engine building com um tema relaxante e visualmente deslumbrante.",
       link:"https://en.wikipedia.org/wiki/Wingspan_(board_game)"
 },
 {
-      Título: "Carcassonne",
-      descrição: "Em Carcassonne, os jogadores constroem uma paisagem medieval, colocando peças de terreno e colocando seus seguidores para pontuar. Cidades, estradas, mosteiros e campos oferecem diferentes oportunidades de pontuação, mas a estratégia é fundamental para garantir a vitória.",
+      titulo: "Carcassonne",
+      descricao: "Em Carcassonne, os jogadores constroem uma paisagem medieval, colocando peças de terreno e colocando seus seguidores para pontuar. Cidades, estradas, mosteiros e campos oferecem diferentes oportunidades de pontuação, mas a estratégia é fundamental para garantir a vitória.",
       link: "https://pt.wikipedia.org/wiki/Carcassonne"
 },
 {
@@ -176,5 +176,5 @@ let dados = [
       titulo: "A Biblioteca dos Mortos",
       descricao: "Série de fantasia urbana de Michael Scott que narra as aventuras de Ash, um jovem que descobre que sua família é guardiã de uma biblioteca mágica.",
       link: "https://en.wikipedia.org/wiki/The_Library_of_the Dead"
-}     
+}
 ];
