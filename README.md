@@ -46,5 +46,7 @@ Se você quiser contribuir para o projeto, sinta-se à vontade para abrir um pul
 * **Guia do GitHub:** [https://docs.github.com/](https://docs.github.com/)
 * **MDN Web Docs:** [https://developer.mozilla.org/](https://developer.mozilla.org/)
 * **W3Schools:** [https://www.w3schools.com/](https://www.w3schools.com/)
-
+* **Link versel:** https://projeto-alura-site-eight.vercel.app/
 **Comente abaixo se tiver alguma dúvida!**
+
+https://projeto-alura-site-eight.vercel.app/
